@@ -1,0 +1,2 @@
+# typeinsearchfield
+firefox extension
